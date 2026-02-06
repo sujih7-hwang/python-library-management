@@ -1,4 +1,4 @@
-# 스마트 도서 관리 시스템 (Library Management System)
+# 📚 스마트 도서 관리 시스템 (Library Management System)
 
 파이썬의 객체 지향 프로그래밍(OOP) 핵심 개념인 상속, 다형성, 그리고 메모리 최적화를 실습하기 위한 프로젝트입니다.
 공통 속성을 가진 Item 클래스를 설계하고, 이를 확장하여 종이책(Book)과 전자책(EBook)을 효율적으로 관리합니다.
